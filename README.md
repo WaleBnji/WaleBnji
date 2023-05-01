@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Olawale
+#### Web and Software Development
+![Web and Software Development](https://pbs.twimg.com/profile_banners/1548233762017685510/1679981708/1080x360)
 
-<!--
-**WaleBnji/WaleBnji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Olawale, deeply interested in web technology, problem-solving, and understanding how things work. Currently building with React, I thrive on challenges, finding innovative solutions, and delivering exceptional results.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
