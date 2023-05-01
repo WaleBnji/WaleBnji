@@ -10,7 +10,7 @@ Skills:
  
  &#128187; JS / HTML / CSS
 
-- 🔭 I’m currently building projects with react. 
+
 
 
 
