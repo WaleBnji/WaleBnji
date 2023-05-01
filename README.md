@@ -9,6 +9,9 @@ Skills:
  &#9883; REACT; 
  
  &#128187; JS / HTML / CSS
+ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaleBnji)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
