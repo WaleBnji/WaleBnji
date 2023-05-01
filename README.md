@@ -4,7 +4,7 @@
 
 I'm Olawale, deeply interested in web technology, problem-solving, and understanding how things work. Currently building with React, I thrive on challenges, finding innovative solutions, and delivering exceptional results.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT &#9883; / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
